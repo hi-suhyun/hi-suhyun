@@ -47,7 +47,7 @@ An educational mobile game for practicing investing with virtual coins and a pla
 
 ### Mindcraft
 
-<a href="https://youtube.com/shorts/IFcvsIzf1S4?is=MN8VGr5E8T-lYYL0"><img src="assets/mindcraft-demo.svg" alt="Watch the Mindcraft cognitive remediation game demo on YouTube" width="720"></a>
+<a href="https://youtube.com/shorts/IFcvsIzf1S4?is=MN8VGr5E8T-lYYL0"><img src="assets/mindcraft-demo-thumbnail.png" alt="Mindcraft hand-tracking and EEG game demonstration" width="720"></a>
 
 A cognitive remediation game that combines hand tracking and EEG-based interaction.
 
