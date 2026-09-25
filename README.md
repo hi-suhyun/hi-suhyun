@@ -45,6 +45,14 @@ An educational mobile game for practicing investing with virtual coins and a pla
 
 **React Native · Expo · Decimal.js · Jest**
 
+### Mindcraft
+
+<a href="https://youtube.com/shorts/IFcvsIzf1S4?is=MN8VGr5E8T-lYYL0"><img src="assets/mindcraft-demo.svg" alt="Watch the Mindcraft cognitive remediation game demo on YouTube" width="720"></a>
+
+A cognitive remediation game that combines hand tracking and EEG-based interaction.
+
+▶ **[Watch the Mindcraft demo](https://youtube.com/shorts/IFcvsIzf1S4?is=MN8VGr5E8T-lYYL0)**
+
 ## Accessibility & Research
 
 I also lead **Handseq**, a webcam-based activity prototype for children with autism, connecting Python hand tracking to Unity. My research work includes building the speech pipeline for a [CHI 2026 study on voice-based agents for accessible online shopping](https://dl.acm.org/doi/10.1145/3772318.3791681).
